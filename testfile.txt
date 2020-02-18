@@ -1,8 +1,4 @@
 my fristtest file
 new style
-<<<<<<< HEAD
-add new funcation 
-=======
+add new funcation
 new add
-
->>>>>>> Git-Project
