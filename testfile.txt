@@ -1,2 +1,4 @@
 my fristtest file
 new style
+new add
+
